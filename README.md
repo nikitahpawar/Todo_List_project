@@ -17,4 +17,6 @@ Step 4: migrate the database
         python manage.py migrate
 
 Step5:  run the server
+
+
         python manage.py runserver
