@@ -1,6 +1,7 @@
 Step 1: download and install python from
 
- python.org
+      
+       python.org
 
 
 Step 2: install django with the help of below statement
